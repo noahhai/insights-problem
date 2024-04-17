@@ -8,6 +8,9 @@ For the software challenge, feel free to look up any documentation or code examp
 * mlflow
     - https://pypi.org/project/mlflow/
 * docker
+* awscli (optional)
+
+Run mlflow server with the following command: `mlflow ui`
 
 1. Work through the tasks listed in model.ipynb and follow the instructions in the notebook.
 
